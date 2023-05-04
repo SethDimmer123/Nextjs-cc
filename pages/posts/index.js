@@ -1,6 +1,9 @@
 import { useEffect,useState } from "react"
 
 
+// this is how i fetch data on the server in nextJS
+
+
 // all rendered on the server side
 
 // not on the client side
