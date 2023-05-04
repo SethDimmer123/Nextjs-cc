@@ -15,6 +15,7 @@ export default function Navbar() {
                 <Link href="/users">
                 <li>Users</li>
                 </Link>
+                <input placeholder="Search..." type="text"></input>
             </ul>
         </nav>
     )
